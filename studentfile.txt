@@ -1,0 +1,26 @@
+Student  Name:hemanth
+Student ID:2600030218
+1st subject marks:99
+2nd subject marks:99
+3rd subject marks99
+Result:passStudent  Name:dbdgtdgbg
+Student ID:51255396929563
+1st subject marks:89
+2nd subject marks:79
+3rd subject marks:89
+Result:passStudent  Name:adafsfe
+Student ID:62032154
+1st subject marks:99
+2nd subject marks:89
+3rd subject marks:78
+Result:passStudent  Name:KKK
+Student ID:2632157895
+1st subject marks:99
+2nd subject marks:99
+3rd subject marks:99
+Result:passStudent  Name:kkk
+Student ID:564789123
+1st subject marks:99
+2nd subject marks:99
+3rd subject marks:99
+Result:pass
